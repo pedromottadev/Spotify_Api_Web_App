@@ -52,8 +52,8 @@ def search_top_musics(id_artist, headers):
 
 def main():
     st.title('Web App Spotify')
-    st.write('dados da Api do Spotify (https://developer.spotify.com/documentation/web-api)')
-    name_artist = st.text_input('search an artist:')
+    st.write('Spotify API Doc (https://developer.spotify.com/documentation/web-api)')
+    name_artist = st.text_input('search artist:')
     if not name_artist:
         st.stop()
 
@@ -83,4 +83,5 @@ def main():
         st.write(f'{markdown_link} (pop: {music_popularity}) ')
 
 if __name__ == '__main__':
+
     main()
