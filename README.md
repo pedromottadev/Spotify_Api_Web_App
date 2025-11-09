@@ -11,6 +11,7 @@
 A web application built with **Python** and **Streamlit**, designed to interact with the **Spotify Web API** using the **Access Token** authentication method.  
 This project demonstrates how to connect, query, and display Spotify data through a clear and responsive interface.
 
+<img width="1080" height="1080" alt="SEU FUTURO (2)" src="https://github.com/user-attachments/assets/87640350-7bda-463f-a831-5a9d90fb06f2" />
 
 
 ---
